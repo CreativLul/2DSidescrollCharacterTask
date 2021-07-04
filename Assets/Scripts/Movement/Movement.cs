@@ -37,7 +37,7 @@ public class Movement : MonoBehaviour
 
     /// <summary>
     /// Ermöglicht die Bewegung des Players durch drücken von den Tasten. A: links; D: rechts; SPACE: oben(jump); S:unten(fall).
-    /// Der Speed hat nur Einfluss auf die Horizontale Bewegung. 
+    /// Der Speed hat nur Einfluss auf die Horizontale Bewegung.  
     /// </summary>
     private void Walk()
     {
