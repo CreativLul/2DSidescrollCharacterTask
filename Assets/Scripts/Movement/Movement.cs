@@ -43,7 +43,7 @@ public class Movement : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
-            myTransform.Translate(4.3f * Time.deltaTime * Vector2.up);
+            myTransform.Translate(4.4f * Time.deltaTime * Vector2.up);
         }
 
         if (Input.GetKey(KeyCode.A))
